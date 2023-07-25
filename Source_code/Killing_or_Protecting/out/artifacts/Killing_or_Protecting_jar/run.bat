@@ -1,0 +1,1 @@
+java -jar Killing_or_Protecting.jar
