@@ -1,0 +1,7 @@
+Running!
+key  	value
+name:	ovo
+cgf:	10.0
+cfy:	1.0
+san:	100.0
+>>>
